@@ -1,19 +1,8 @@
-﻿using System;
+﻿
+Console.WriteLine("How old are you?");
 
-namespace TypeCoverstionHomeWork 
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("How old are you");
-            string ageText = Console.ReadLine();
+string ageText = Console.ReadLine();
 
-            int age = Convert.ToInt32(ageText);
-            
+int ageNumber = int.Parse(ageText);
 
-            Console.WriteLine($"you will be {age+25} in 25 years,\n but you were {age-25} 25 years ago");
-
-        }
-    }
-}
+Console.WriteLine($"my age will be {ageNumber + 25} but my age was {ageNumber - 25}");
