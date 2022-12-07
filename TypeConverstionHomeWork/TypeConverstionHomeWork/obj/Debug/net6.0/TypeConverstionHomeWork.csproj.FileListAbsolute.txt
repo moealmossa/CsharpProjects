@@ -1,0 +1,15 @@
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\bin\Debug\net6.0\TypeConverstionHomeWork.exe
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\bin\Debug\net6.0\TypeConverstionHomeWork.deps.json
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\bin\Debug\net6.0\TypeConverstionHomeWork.runtimeconfig.json
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\bin\Debug\net6.0\TypeConverstionHomeWork.dll
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\bin\Debug\net6.0\TypeConverstionHomeWork.pdb
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\obj\Debug\net6.0\TypeConverstionHomeWork.csproj.AssemblyReference.cache
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\obj\Debug\net6.0\TypeConverstionHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\obj\Debug\net6.0\TypeConverstionHomeWork.AssemblyInfoInputs.cache
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\obj\Debug\net6.0\TypeConverstionHomeWork.AssemblyInfo.cs
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\obj\Debug\net6.0\TypeConverstionHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\obj\Debug\net6.0\TypeConverstionHomeWork.dll
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\obj\Debug\net6.0\refint\TypeConverstionHomeWork.dll
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\obj\Debug\net6.0\TypeConverstionHomeWork.pdb
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\obj\Debug\net6.0\TypeConverstionHomeWork.genruntimeconfig.cache
+C:\Users\moalm\CsharpProjects\TypeConverstionHomeWork\TypeConverstionHomeWork\obj\Debug\net6.0\ref\TypeConverstionHomeWork.dll
