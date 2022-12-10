@@ -1,0 +1,15 @@
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\bin\Debug\net6.0\ifstatement.exe
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\bin\Debug\net6.0\ifstatement.deps.json
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\bin\Debug\net6.0\ifstatement.runtimeconfig.json
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\bin\Debug\net6.0\ifstatement.dll
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\bin\Debug\net6.0\ifstatement.pdb
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.csproj.AssemblyReference.cache
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.AssemblyInfoInputs.cache
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.AssemblyInfo.cs
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.csproj.CoreCompileInputs.cache
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.dll
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\obj\Debug\net6.0\refint\ifstatement.dll
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.pdb
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\obj\Debug\net6.0\ifstatement.genruntimeconfig.cache
+C:\Users\moalm\CsharpProjects\ifstatement\ifstatement\obj\Debug\net6.0\ref\ifstatement.dll
